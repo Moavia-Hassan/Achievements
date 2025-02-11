@@ -5,31 +5,7 @@ Welcome to my **Certifications & Achievements** repository! This repository is a
 ---
 
 ## 🏆 Achievements
-
-Here are some of my notable achievements:
-
-- **Mozvia-Hassam AI for Connectivity Hackathon Certificate**  
-  *Participated in the AI for Connectivity Hackathon and contributed to innovative solutions.*
-
-- **MIT Contest 2025**  
-  *Achieved a position in the MIT Contest 2025, showcasing problem-solving and analytical skills.*
-
-- **CODANICS 40 Days of Python for Data Science**  
-  *Completed an intensive 40-day program focused on Python and Data Science.*
-
----
-
-## 📜 Certifications
-
-Here are some of the certifications I've earned:
-
-- **AI For Everyone by Coursera**  
-  *Gained foundational knowledge in AI and its applications.*
-
-- **Programming for Everybody (Getting Started with Python) by Coursera**  
-  *Learned the basics of Python programming, a key skill for data science and software development.*
-
----
+WOrking on this section
 
 ## 🛠️ Skills
 
